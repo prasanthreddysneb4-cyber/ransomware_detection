@@ -16,15 +16,15 @@ Split: 80% Training, 20% Testing (stratified to maintain class balance)
 -  Compare model performance and identify the best detector
 -  Generate comprehensive evaluation metrics and visualizations
 
-Technology Stack
-Languages: Python 3.x
-Libraries:
-  Data Processing: NumPy, Pandas
-  Visualization: Matplotlib, Seaborn
-  ML Models: Scikit-learn, XGBoost
-Metrics: Classification Report, Confusion Matrix
+## Technology Stack
+-  Language: Python 3.x
+-  Libraries:
+    Data Processing: NumPy, Pandas
+    Visualization: Matplotlib, Seaborn
+    ML Models: Scikit-learn, XGBoost
+-  Metrics: Classification Report, Confusion Matrix
 
-Project Workflow
+## Project Workflow
 1. Exploratory Data Analysis (EDA)
   Dataset shape, columns, and data types
   Missing value detection
